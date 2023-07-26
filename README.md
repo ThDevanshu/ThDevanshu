@@ -71,10 +71,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Aayush0606&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=ThDevanshu&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aayush0606&label=Profile%20views&color=ce9927&style=flat" alt="Aayush0606" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ThDevanshu&label=Profile%20views&color=ce9927&style=flat" alt="Aayush0606" /> </p>
 *************
