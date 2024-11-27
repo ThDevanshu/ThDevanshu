@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 21 years old Tech Enthusiast from India.
+### - I'm 22 years old Software Developer from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets/1936.gif">
 
